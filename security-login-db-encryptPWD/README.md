@@ -1,3 +1,5 @@
+参考：http://www.spring4all.com/article/428
+
 前置文章
 ----------
 [Spring Security 入门：基于数据库验证](http://www.jianshu.com/p/d425f8031f83)
