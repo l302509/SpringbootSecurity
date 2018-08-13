@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: security-login-db-encryptPWD
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: x_lilong
+Implementation-Vendor-Id: com.spring4all.anoy
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/security-login-db-encryptPWD
+Created-By: Maven Integration for Eclipse
+
