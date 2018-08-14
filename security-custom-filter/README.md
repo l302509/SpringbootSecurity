@@ -1,3 +1,5 @@
+参考原文：http://www.spring4all.com/article/422
+
 本文解决问题
 ----
 将自定义的 `Filter` 加入到 Spring Security 中的 `Filter` 链中的指定位置。
