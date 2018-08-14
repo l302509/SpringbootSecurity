@@ -1,3 +1,5 @@
+参考原文：http://www.spring4all.com/article/424
+
 ### 准备工作
 1、在 [QQ互联](https://connect.qq.com/index.html) 申请成为开发者，并创建应用，得到APP ID 和 APP Key。
 
